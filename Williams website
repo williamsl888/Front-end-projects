@@ -1,0 +1,73 @@
+<!-- if else-->
+<!DOCTYPE html>
+<html>
+  <head>
+<style>
+  ul{list-style-type:none;
+   margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black; }
+
+  li {float: left;
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;}
+
+  a{text-decoration:none;
+  color:white;
+  font-size: 18px}
+
+  li a:hover{font-size:50px}
+
+  .copy{
+    background-color:grey;
+    color:white;
+    padding: 0;
+    margin-top: 60%;
+      height: 60px;
+  width: 100%;
+  text-align: center;
+    }
+  body{
+background-image:url("https://static.amazon.jobs/locations/58/images/NYC.jpg?1547618121");
+background-repeat:no-repeat; 
+height:100%;
+background-size:100% 80%;
+background-position:center;
+
+
+  }
+
+
+  </style>
+
+    
+    <script>
+      
+      </script>
+  </head>
+  <body>
+    <div>
+      <table>
+<tr> <td> <img src="https://www.gannett-cdn.com/-mm-/d4b3221adde4034171c15dd3448f31b3536e5834/c=224-0-2012-1341/local/-/media/2019/04/16/USATODAY/usatsports/analysis-gettyimages-871070312.jpg?width=540&height=405&fit=crop" height="50px" width="50px"></td><td><h2>William's webpage</h2></td></tr></table>
+<!--tr is row and td is table, allows us to this post on top-->
+<ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About<a></li>
+      <li><a href="#">Contact list<a></li>
+      </ul>
+<p>
+
+
+
+      <div class ="copy">
+        Copyrights Reserved. Developed by William Lau
+      
+      </div>
+  
+
+  </body>
+</html>
